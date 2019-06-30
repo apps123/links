@@ -24,6 +24,7 @@ This page contains interesting links on different topics
   * /@krsatyam1996. “IMDB Movie Review Polarity Using NAIVE BAYES CLASSIFIER.” Medium, Medium, 13 Nov. 2018, [https://medium.com/@krsatyam1996/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d](https://medium.com/@krsatyam1996/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d).
   * /@gjovanov. “Realtime Face Recognition - Goran Jovanov.” Medium, Medium, 11 Jan. 2019, [https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878](https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878).
   * /@armandj.olivares. “A Basic NLP Tutorial for News Multiclass Categorization.” Medium, Medium, 9 June 2019, [https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5).
+  * Jeremy Jordan. “Convolutional Neural Networks.” Jeremy Jordan, Jeremy Jordan, 2 Apr. 2019, [https://www.jeremyjordan.me/convolutional-neural-networks/](https://www.jeremyjordan.me/convolutional-neural-networks/).
   
 
 ### AWS
