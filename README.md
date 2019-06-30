@@ -25,6 +25,7 @@ This page contains interesting links on different topics
   * /@gjovanov. “Realtime Face Recognition - Goran Jovanov.” Medium, Medium, 11 Jan. 2019, [https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878](https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878).
   * /@armandj.olivares. “A Basic NLP Tutorial for News Multiclass Categorization.” Medium, Medium, 9 June 2019, [https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5).
   * Jeremy Jordan. “Convolutional Neural Networks.” Jeremy Jordan, Jeremy Jordan, 2 Apr. 2019, [https://www.jeremyjordan.me/convolutional-neural-networks/](https://www.jeremyjordan.me/convolutional-neural-networks/).
+  * “Artificial Neural Network and Neural Network Applications.” XenonStack, 25 May 2019, [https://www.xenonstack.com/blog/artificial-neural-network-applications/](www.xenonstack.com/blog/artificial-neural-network-applications/).
   
 
 ### AWS
