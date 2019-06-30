@@ -23,6 +23,7 @@ This page contains interesting links on different topics
   * 10154213195861387. “Machine Learning for Dummies with TensorFlow.js.” Noteworthy - The Journal Blog, Noteworthy - The Journal Blog, 2 June 2018, [https://blog.usejournal.com/machine-learning-for-dummies-with-tensorflow-js-44795d3d825c](https://blog.usejournal.com/machine-learning-for-dummies-with-tensorflow-js-44795d3d825c).
   * /@krsatyam1996. “IMDB Movie Review Polarity Using NAIVE BAYES CLASSIFIER.” Medium, Medium, 13 Nov. 2018, [https://medium.com/@krsatyam1996/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d](https://medium.com/@krsatyam1996/imdb-movie-review-polarity-using-naive-bayes-classifier-9f92c13efa2d).
   * /@gjovanov. “Realtime Face Recognition - Goran Jovanov.” Medium, Medium, 11 Jan. 2019, [https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878](https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878).
+  * /@armandj.olivares. “A Basic NLP Tutorial for News Multiclass Categorization.” Medium, Medium, 9 June 2019, [https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5).
   
 
 ### AWS
