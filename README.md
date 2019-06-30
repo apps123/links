@@ -4,6 +4,7 @@ This page contains interesting links on different topics
 
 ### Machine Learning
 
+  * Veen, Fjodor van. “The Neural Network Zoo.” The Asimov Institute, 27 Apr. 2019, [https://www.asimovinstitute.org/neural-network-zoo/](https://www.asimovinstitute.org/neural-network-zoo/).
   * Alammar, Jay. “A Visual Intro to NumPy and Data Representation.” A Visual Intro to NumPy and Data Representation – Jay Alammar – Visualizing Machine Learning One Concept at a Time, [https://jalammar.github.io/visual-numpy/?utm_content=buffer423d9&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer](https://jalammar.github.io/visual-numpy/?utm_content=buffer423d9&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer).
   * /@sunil.udbhav. “Building Your First Neural Network on a Structured Dataset (Using Keras).” Medium, Analytics Vidhya, 20 Aug. 2018, [https://medium.com/analytics-vidhya/build-your-first-neural-network-model-on-a-structured-dataset-using-keras-d9e7de5c6724](https://medium.com/analytics-vidhya/build-your-first-neural-network-model-on-a-structured-dataset-using-keras-d9e7de5c6724).
   * /@farhadmalik84. “Flask - Host Your Python Machine Learning Model On Web.” Medium, FinTechExplained, 5 June 2019, [https://medium.com/fintechexplained/flask-host-your-python-machine-learning-model-on-web-b598151886d](https://medium.com/fintechexplained/flask-host-your-python-machine-learning-model-on-web-b598151886d).
