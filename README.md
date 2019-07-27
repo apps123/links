@@ -32,7 +32,7 @@ This page contains interesting links on different topics
   * /@aiswaryar. “NLP Guide: Identifying Part of Speech Tags Using Conditional Random Fields.” Medium, Analytics Vidhya, 5 Oct. 2018, [https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31).
   * Deshpande, Adit. “Perform Sentiment Analysis with LSTMs, Using TensorFlow.” O'Reilly Media, 13 July 2017, [https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow).
   * /@williamkoehrsen. “Automated Feature Engineering in Python - Towards Data Science.” Medium, Towards Data Science, 5 June 2018, [https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219).
-
+  * /@joycex99. “Topic Modeling with LSA, PLSA, LDA & lda2Vec.” Medium, NanoNets, 20 Dec. 2018, [https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05).
 
 ### AWS
   * /@adhorn. “Getting Started with AWS Lambda Layers for Python - Adrian Hornsby.” Medium, Medium, 27 Dec. 2018, [https://medium.com/@adhorn/getting-started-with-aws-lambda-layers-for-python-6e10b1f9a5d](https://medium.com/@adhorn/getting-started-with-aws-lambda-layers-for-python-6e10b1f9a5d).
