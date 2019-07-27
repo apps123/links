@@ -41,7 +41,8 @@ This page contains interesting links on different topics
 ### Airflow
 
   * /@_leboncoin. “Data Traffic Control with Apache Airflow.” Medium, Leboncoin Engineering Blog, 9 Jan. 2019, [medium.com/leboncoin-engineering-blog/data-traffic-control-with-apache-airflow-ab8fd3fc8638](medium.com/leboncoin-engineering-blog/data-traffic-control-with-apache-airflow-ab8fd3fc8638).
-  
+  * /@HugoLime. “How Apache Airflow Distributes Jobs on Celery Workers.” Medium, Sicara's Blog, 8 Apr. 2019, blog.sicara.com/using-airflow-with-celery-workers-54cb5212d405.
+  * /@sriram_82638. “How to Start Automating Your Data Pipelines with Airflow.” Medium, Insight Fellows Program, 18 Oct. 2018, blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94.  
 
 
 ### Techniques
