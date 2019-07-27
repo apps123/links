@@ -43,7 +43,7 @@ This page contains interesting links on different topics
   * /@_leboncoin. “Data Traffic Control with Apache Airflow.” Medium, Leboncoin Engineering Blog, 9 Jan. 2019, [https://medium.com/leboncoin-engineering-blog/data-traffic-control-with-apache-airflow-ab8fd3fc8638](medium.com/leboncoin-engineering-blog/data-traffic-control-with-apache-airflow-ab8fd3fc8638).
   * /@HugoLime. “How Apache Airflow Distributes Jobs on Celery Workers.” Medium, Sicara's Blog, 8 Apr. 2019, [https://blog.sicara.com/using-airflow-with-celery-workers-54cb5212d405](https://blog.sicara.com/using-airflow-with-celery-workers-54cb5212d405).
   * /@sriram_82638. “How to Start Automating Your Data Pipelines with Airflow.” Medium, Insight Fellows Program, 18 Oct. 2018, [https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94](https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94).  
-
+  * /@AustinBG. “Getting Ramped-Up on Airflow with MySQL → S3 → Redshift.” Medium, HackerNoon.com, 22 May 2019, [https://medium.com/hackernoon/getting-ramped-up-on-airflow-with-mysql-s3-redshift-defcc4522c8c](https://medium.com/hackernoon/getting-ramped-up-on-airflow-with-mysql-s3-redshift-defcc4522c8c).
 
 ### Techniques
 
